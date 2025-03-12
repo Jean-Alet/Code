@@ -39,3 +39,7 @@ while cap.isOpened():
 
 cap.release()
 cv2.destroyAllWindows()
+
+# a faire regarder les maillots 
+# les non joueurs 
+# differencier les joueurs des deux equipes
