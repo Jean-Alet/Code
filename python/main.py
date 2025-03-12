@@ -10,7 +10,7 @@ import cv2
 model = YOLO("yolov8n.pt")  # Use 'yolov8m.pt' or 'yolov8l.pt' for better accuracy
 
 # Open video file
-video_path = "vb1.mp4"
+video_path = "D:/Code/python/vb1.avi"
 cap = cv2.VideoCapture(video_path)
 
 while cap.isOpened():
